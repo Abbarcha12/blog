@@ -2,7 +2,7 @@
   --bg: white;
   --textColor: black;
   --softBg: #f0f0f0;
-  --softTextColor: #000000;
+  --softTextColor: #626262;
 }
 
 * {
@@ -23,7 +23,7 @@ a {
 
 .dark {
   --bg: #0f172a;
-  --textColor: #fff;
+  --textColor: #ddd;
   --softBg: #1f273a;
   --softTextColor: #a6a6a6;
 }
@@ -32,7 +32,7 @@ a {
   --bg: white;
   --textColor: black;
   --softBg: #f0f0f0;
-  --softTextColor: #000000;
+  --softTextColor: #626262;
 }
 
 .container {
